@@ -10,23 +10,23 @@ This analysis is an effort to prove the feasibility of a bike-sharing buisiness 
 Populations analysis:
 - How do the populations of Des Moines and New York City comapre? Does the population affect the number of people who will use the bike-sharing program?
 - Comparing the gender diversity of Des Moines vs NYC. Could it affect the possible business in Des Moines?
-- Comparing the age distribution of each city
-Response:
+- Comparing the age distribution of each city<br/>
+Response:<br/>
 While NYC has a far larger population, we can see the population by age percentages are very similar.
 At the bottom Citibike information for NYC is displayed by rider birthyear. The majority of riders were born between 1980 & ~1997. With a spike in 1969.
 Des Moines will of course have less riders due to the lower population. However, as the demographics of the populations are similar, the percentage of riders should not be negatively impacted by these metrics
 
 Weather analysis:
 - How do the climates in Des Moines and New York City compare?
-- During which season(s) does Des Moines have the most travels to it?
-Response:
+- During which season(s) does Des Moines have the most travels to it?<br/>
+Response:<br/>
 Both Cities have very similar climate in particular during the peak seasons of spring through early fall.
 
 Points of Interest:
 - Does Des Moines have a sufficient number of interesting locations and routes to support a bike share program
 - Where would potential bike stations be placed
-- Reviewing the NYC correlation between its points of interest and the top start & end ride locations
-Response:
+- Reviewing the NYC correlation between its points of interest and the top start & end ride locations<br/>
+Response:<br/>
 Various attractions, parks, trails, bikeshop etc exist across Des Moines. These are all possible locations for our new Bike service.  This Map also highlight potential route stop options for riders. With the high number of POIs and a local government focus on tourism and outdoor activities, a bike-share program is highly viable.
 
 
