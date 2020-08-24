@@ -2381,7 +2381,7 @@
             <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='3423' id='3' w='98426' x='787' y='830' />
             <zone _.fcp.SetMembershipControl.false...type='flipboard-nav' _.fcp.SetMembershipControl.true...type-v2='flipboard-nav' h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' w='98426' x='787' y='4253' />
             <zone _.fcp.SetMembershipControl.false...type='flipboard' _.fcp.SetMembershipControl.true...type-v2='flipboard' h='84440' id='5' paired-zone-id='4' removable='false' w='98426' x='787' y='14730'>
-              <flipboard active-id='6' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='2' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='Public Bikes in Des Moines' captured-sheet='Cover' id='1' />
                   <story-point caption='Analysis Approach' captured-sheet='Approach' id='6' />
@@ -3117,9 +3117,9 @@
     </dashboard>
   </dashboards>
   <windows source-height='135'>
-    <window class='dashboard' maximized='true' name='Bike-share in Des Moines' tab-color='#6e597f'>
+    <window class='dashboard' name='Bike-share in Des Moines' tab-color='#6e597f'>
       <viewpoints />
-      <active id='-1' />
+      <active id='4' />
       <simple-id uuid='{99ACE394-23C1-4605-8561-BAF7BD5AD136}' />
     </window>
     <window class='dashboard' name='Cover'>
@@ -3160,7 +3160,7 @@
       <active id='-1' />
       <simple-id uuid='{DDFE2939-B5DF-472A-A3BF-E550E7EEC141}' />
     </window>
-    <window class='dashboard' name='Population'>
+    <window class='dashboard' maximized='true' name='Population'>
       <viewpoints>
         <viewpoint name='AgeRanges'>
           <zoom type='entire-view' />
